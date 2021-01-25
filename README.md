@@ -1,27 +1,35 @@
-# AngularSimpleCircularProgress
+# Angular: Simple Circular Progress Implementation
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
+### npm package
 
-## Development server
+[simple-circular-progress](https://www.npmjs.com/package/simple-circular-progress)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### Output
 
-## Code scaffolding
+![Screen1](https://raw.githubusercontent.com/umarmemon1910/ionic-simple-circular-progress-example/master/git-assets/screen1.png)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![Screen2](https://raw.githubusercontent.com/umarmemon1910/ionic-simple-circular-progress-example/master/git-assets/screen2.png)
 
-## Build
+![Screen3](https://raw.githubusercontent.com/umarmemon1910/ionic-simple-circular-progress-example/master/git-assets/screen3.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+### Steps
 
-## Running unit tests
+- Clone repository
+- Go to the root directory of project
+- install dependencies
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```
+$ npm install
+```
 
-## Running end-to-end tests
+- run application
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+```
+$ ionic serve
+```
 
-## Further help
+enjoy :smile: :blush: :tada:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+### Author
+
+[Umar Memon](https://github.com/umarmemon1910)
