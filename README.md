@@ -6,11 +6,7 @@
 
 ### Output
 
-![Screen1](https://raw.githubusercontent.com/umarmemon1910/ionic-simple-circular-progress-example/master/git-assets/screen1.png)
-
-![Screen2](https://raw.githubusercontent.com/umarmemon1910/ionic-simple-circular-progress-example/master/git-assets/screen2.png)
-
-![Screen3](https://raw.githubusercontent.com/umarmemon1910/ionic-simple-circular-progress-example/master/git-assets/screen3.png)
+![Screen1](https://raw.githubusercontent.com/umarmemon1910/angular-simple-circular-progress-example/master/git-assets/angular-screen1.PNG)
 
 ### Steps
 
@@ -25,7 +21,7 @@ $ npm install
 - run application
 
 ```
-$ ionic serve
+$ ng serve
 ```
 
 enjoy :smile: :blush: :tada:
