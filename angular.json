@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-simple-circular-progress"
+    }
+  },
+  "defaultProject": "angular-simple-circular-progress",
+  "cli": {
+    "analytics": false
+  }
 }
